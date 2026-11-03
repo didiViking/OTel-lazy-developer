@@ -1,4 +1,4 @@
-# OpenTelemetry Demo - Devoxx
+# OpenTelemetry Demo - How to start instrumenting locally
 
 This repository contains experiments and demos using OpenTelemetry to send **traces, metrics, and logs** to OTEL Viewer 
 
